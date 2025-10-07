@@ -273,8 +273,8 @@
 }
 
 .about {
-  margin: 0 24px 177px 24px;
-  padding: 0;
+  margin-bottom: 177px;
+  padding-left: 24px;
   width: 1100px;
   height: 595px;
   display: grid;
